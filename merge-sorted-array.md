@@ -4,7 +4,7 @@
 
 ---
 
-### Approach
+### Approach :-
 * Create two variables and assign last index of arrays to both of it and also create another vaiable and assign it the last index of final array after merging.
 * Now run the loop till both variable comes to first index and compare elements of both the array using these variables and find out the biiger value and put it to
   the last index of final array.
